@@ -25,3 +25,14 @@ cd Banco-Digital-Python
 python banco_digital.py
 
 
+
+
+👨‍💻 Autor
+
+João Victor Gomes da Silva
+Estudante de Gestão da Tecnologia da Informação, em busca de oportunidade de estágio em Desenvolvimento de Software.
+
+📧 joaovictorgomes998@gmail.com
+💼 LinkedIn
+
+
